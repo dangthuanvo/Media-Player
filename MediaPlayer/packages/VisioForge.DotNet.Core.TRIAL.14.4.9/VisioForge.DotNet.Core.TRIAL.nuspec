@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>VisioForge.DotNet.Core.TRIAL</id>
+    <version>14.4.9</version>
+    <title>VisioForge SDK's Core Package</title>
+    <authors>VisioForge</authors>
+    <owners>visioforge</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://www.visioforge.com/</licenseUrl>
+    <projectUrl>https://www.visioforge.com/</projectUrl>
+    <iconUrl>https://help.visioforge.com/favicon.ico</iconUrl>
+    <description>VisioForge .Net products for video capture, editing and playback (Video Capture SDK, Media Player SDK, Video Edit SDK). Core package. Samples - https://github.com/visioforge/.Net-SDK-s-samples .</description>
+    <summary>VisioForge .Net products for video capture, editing and playback (Video Capture SDK, Media Player SDK, Video Edit SDK). Core package. Samples - https://github.com/visioforge/.Net-SDK-s-samples .</summary>
+    <releaseNotes>Bug fixes and performance improvements. Please check changelog.</releaseNotes>
+    <copyright>VisioForge (c) 2006 - 2021</copyright>
+    <tags>video audio capture record camera edit play player editor convert DirectShow</tags>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="System.ServiceModel.Http" version="4.8.1" />
+        <dependency id="System.ServiceModel.NetTcp" version="4.8.1" />
+        <dependency id="System.ServiceModel.Primitives" version="4.8.1" />
+        <dependency id="System.ServiceModel.Security" version="4.8.1" />
+        <dependency id="System.Text.Json" version="5.0.2" />
+      </group>
+      <group targetFramework="net5.0">
+        <dependency id="System.ServiceModel.Http" version="4.8.1" />
+        <dependency id="System.ServiceModel.NetTcp" version="4.8.1" />
+        <dependency id="System.ServiceModel.Primitives" version="4.8.1" />
+        <dependency id="System.ServiceModel.Security" version="4.8.1" />
+        <dependency id="System.Text.Json" version="5.0.2" />
+      </group>
+      <group targetFramework="net6.0">
+        <dependency id="System.ServiceModel.Http" version="4.8.1" />
+        <dependency id="System.ServiceModel.NetTcp" version="4.8.1" />
+        <dependency id="System.ServiceModel.Primitives" version="4.8.1" />
+        <dependency id="System.ServiceModel.Security" version="4.8.1" />
+        <dependency id="System.Text.Json" version="5.0.2" />
+      </group>
+      <group targetFramework=".NETFramework4.7.2">
+        <dependency id="System.Text.Json" version="5.0.2" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

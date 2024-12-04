@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>VisioForge.DotNet.VideoCapture.TRIAL</id>
+    <version>14.4.1</version>
+    <title>VisioForge Video Capture SDK .Net</title>
+    <authors>VisioForge</authors>
+    <owners>visioforge</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://www.visioforge.com/video-capture-sdk-net</licenseUrl>
+    <projectUrl>https://www.visioforge.com/video-capture-sdk-net</projectUrl>
+    <iconUrl>https://help.visioforge.com/favicon.ico</iconUrl>
+    <description>.Net-based SDK that integrates video capturing and processing functions into software. Implements video and audio playback and capture from a broad range of sources including TV tuners, USB web cams,	DV/HDV camcorders, PCI capture cards and IP cameras. Supports AVI, WMV, DV, MPEG-1/2, MP4, FLV and WebM output formats. Samples - https://github.com/visioforge/.Net-SDK-s-samples .</description>
+    <summary>.Net-based SDK that integrates video capturing and processing functions into software. Implements video and audio playback and capture from a broad range of sources including TV tuners, USB web cams,	DV/HDV camcorders, PCI capture cards and IP cameras. Supports AVI, WMV, DV, MPEG-1/2, MP4, FLV and WebM output formats. Samples - https://github.com/visioforge/.Net-SDK-s-samples .</summary>
+    <releaseNotes>Bug fixes and performance improvements. Please check changelog.</releaseNotes>
+    <copyright>VisioForge (c) 2006 - 2021</copyright>
+    <tags>video audio capture DirectShow mp4 avi tv tuner camera rtsp rtmp wmv mp3 aac onvif</tags>
+    <dependencies>
+      <dependency id="VisioForge.DotNet.Core.TRIAL" version="14.4.1" />
+    </dependencies>
+  </metadata>
+</package>

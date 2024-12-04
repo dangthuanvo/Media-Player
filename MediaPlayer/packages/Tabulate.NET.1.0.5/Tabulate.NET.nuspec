@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>Tabulate.NET</id>
+    <version>1.0.5</version>
+    <title>Tabulate.NET is a library for the .NET framework. It is a highly flexible datatable, built upon the foundations of progressive enhancement, that adds all of these advanced features to any .Net standard application.</title>
+    <authors>Kim Too FLex</authors>
+    <owners>kimtooflex</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <licenseUrl>https://kimtooflex.com/</licenseUrl>
+    <projectUrl>https://kimtooflex.com/</projectUrl>
+    <iconUrl>https://i.imgur.com/vKNqxrl.png</iconUrl>
+    <description>Tabulate.NET is a library for the .NET framework. It is a highly flexible datatable, built upon the foundations of progressive enhancement, that adds all of these advanced features to any .Net standard application.</description>
+    <summary>Tabulate.NET is a library for the .NET framework. It is a highly flexible datatable, built upon the foundations of progressive enhancement.</summary>
+    <releaseNotes>Secured
+Improved performance
+Added table methods</releaseNotes>
+    <copyright>Copyright 2020 kimtooflex.com</copyright>
+    <tags>table html datagrid winforms bunifu</tags>
+    <dependencies>
+      <dependency id="Newtonsoft.Json" version="12.0.0" />
+    </dependencies>
+  </metadata>
+</package>

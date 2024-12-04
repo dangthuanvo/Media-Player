@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Bunifu.Dataviz.WinForms</id>
+    <version>2.2.0</version>
+    <title>Bunifu.Dataviz.WinForms</title>
+    <authors>BunifuLabs</authors>
+    <owners>BunifuLabs</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <license type="file">lib\Assets\LICENSE.txt</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <icon>lib\Assets\Icon.png</icon>
+    <projectUrl>https://bunifuframework.com/</projectUrl>
+    <description>Create stunning visualizations and responsive charts for your dashboards and data-centric applications. For more info, please visit https://bunifuframework.com
+
+Once installed, please visit https://docs2.bunifuframework.com/docs/getting-started/install for guidelines on how to install and activate Bunifu Dataviz.</description>
+    <summary>Create stunning visualizations and responsive charts for your dashboards and data-centric applications.</summary>
+    <releaseNotes>• Resolved license validation tasks.</releaseNotes>
+    <copyright>© 2021 Bunifu Technologies</copyright>
+    <tags>c# vb winforms controls .net bunifu ui bunifu-ui ui-controls ui-winforms charts chart-control dataviz dataviz-winforms data-visualization visualization</tags>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0" />
+    </dependencies>
+  </metadata>
+</package>
